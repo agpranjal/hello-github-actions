@@ -9,10 +9,10 @@ inputs:
     default: Pranjal
 
 
-  runs:
-    using: docker
-    image: Dockerfile
+runs:
+  using: docker
+  image: Dockerfile
 
-  branding:
-    icon: mic
-    color: purple
+branding:
+  icon: mic
+  color: purple
